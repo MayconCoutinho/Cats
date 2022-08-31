@@ -35,7 +35,7 @@ export default function Home() {
     return (
       gatos.map((item, index) => {
         return (
-          <div className={styles.container}>
+          <div key={item} className={styles.container}>
             <img key={item} alt='' className={styles.imagem} src={item} />
           </div>)
       })

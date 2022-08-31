@@ -4,12 +4,10 @@ import axios from "axios"
 import styles from './Imagens.module.scss'
 
 export default function Home() {
-
   const [img, setImg] = useState(0)
   const [gatos, setGatos] = useState([])
 
   const pegandoImg = () => {
-
     axios.get(`https://api.thecatapi.com/v1/images/search?limit=25`)
       .then((res) => {
         setImg(res.data)
@@ -34,8 +32,6 @@ export default function Home() {
   }, [img])
 
   const monstraImg = () => {
-
-
     return (
       gatos.map((item, index) => {
         return (
@@ -45,8 +41,6 @@ export default function Home() {
       })
     )
   }
-
-
   return (
     <div >
       <Head>
@@ -68,6 +62,5 @@ export default function Home() {
       }
       <li id='sentinela' className={styles.sentinela} />
     </div>
-
   )
 }

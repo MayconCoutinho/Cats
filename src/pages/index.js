@@ -40,7 +40,7 @@ export default function Home() {
       gatos.map((item, index) => {
         return (
           <div className={styles.container}>
-            <img className={styles.imagem} src={item} />
+            <img key={item} alt='' className={styles.imagem} src={item} />
           </div>)
       })
     )
@@ -56,11 +56,11 @@ export default function Home() {
 
       <div className={styles.alinha}>
         <h1> Api de Gatinhos com Scroll infinito </h1>
-        <img src='https://cdn2.thecatapi.com/logos/thecatapi_256xW.png' width={200} />
+        <img alt='' src='https://cdn2.thecatapi.com/logos/thecatapi_256xW.png' width={200} />
         <p> Ou até acabas as imagens da api 😅 </p>
         <p> Caso queira ver mais projetos meus de uma olhada em minhas redes </p>
-        <a href='https://www.linkedin.com/in/maycon-coutinho/' target='_blank' > Linkedin </a>
-        <a href='https://github.com/MayconCoutinho' target='_blank' > GitHub </a>
+        <a href='https://www.linkedin.com/in/maycon-coutinho/' target='_blank' rel="noreferrer" > Linkedin </a>
+        <a href='https://github.com/MayconCoutinho' target='_blank' rel="noreferrer"> GitHub </a>
         <h1> Se divirta vendos os Gatinho é bem legal essa Api :) </h1>
       </div>
       {

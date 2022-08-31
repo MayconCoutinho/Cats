@@ -9,9 +9,10 @@
 
 ## 📲 User demo ➜ [Link Surge](https://api-gatinhos-scroll-infinito.vercel.app/)
 
-![Sem título](https://user-images.githubusercontent.com/60453269/187745418-09219b22-f8e9-4c6c-9b42-974a17df0e03.png)
+![Sem título](https://user-images.githubusercontent.com/60453269/187748988-1af2cfd7-69cf-43a2-82b1-9fb46fbcaa5c.png)
 
-## 🚀 Tecnologias
+## 🚀 Tecnologi
+as
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Nest.js

@@ -21,6 +21,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Javascript
 - Axios
 
+## ⚙ Api que usei foi ➜ [Link api](https://documenter.getpostman.com/view/5578104/RWgqUxxh#997f5b37-79cc-49a4-8c11-ddf24b72a4d9)
+
+Uma API aberta, gratuita, de leitura e escrita sobre gatos
+A API Cat oferece acesso a 10.000 imagens de gatos
+
+Carregue suas próprias imagens
+Favorito ou Vote nas imagens
+Obtenha estatísticas sobre seus pedidos
+Salve um valor personalizado com cada solicitação para cada um de seus usuários
+
 ## 💻 Projeto
  A aplicação consiste em  visualizar um scroll infinito com imagens de gatinhos de uma api.
  

@@ -1,7 +1,7 @@
 # Labex
 
 <h1 align="center">
-<img width=500 src="https://user-images.githubusercontent.com/60453269/187745147-74848351-d759-4266-83c6-586bf792b1af.png">
+<img width=300 src="https://user-images.githubusercontent.com/60453269/187745147-74848351-d759-4266-83c6-586bf792b1af.png">
 </h1>
 
 

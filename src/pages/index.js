@@ -55,7 +55,7 @@ export default function Home() {
         <p> Caso queira ver mais projetos meus de uma olhada em minhas redes </p>
         <a href='https://www.linkedin.com/in/maycon-coutinho/' target='_blank' rel="noreferrer" > Linkedin </a>
         <a href='https://github.com/MayconCoutinho' target='_blank' rel="noreferrer"> GitHub </a>
-        <h1> Se divirta vendo os Gatinho é bem legal essa Api :) </h1>
+        <h1> Se divirta vendo os Gatinhos é bem legal essa Api :) </h1>
       </div>
       {
         img > 0 ? <h1> sem esperando imagens </h1> : monstraImg()

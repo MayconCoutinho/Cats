@@ -1,0 +1,34 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 10px;
+    column-gap: 16px;
+    @media (max-width: 900px) {
+
+        margin: 50px 5px 50px 5px;
+
+      }
+}
+
+
+.imagem{
+    border-radius: 18px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+
+}
+
+.imagem:hover{
+    filter: brightness(60%);
+    cursor: zoom-in;
+}
+
+
+.sentinela{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(65, 52, 35);
+}
+
+

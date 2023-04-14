@@ -1,49 +1,126 @@
-# Gatinhos infinitos 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60453269/232112174-b851511e-ca98-49fe-acf5-24f605f04860.png" alt="Logo" width="200" height="200" />
+</p>
 
-<h1 align="center">
-<img width=300 src="https://user-images.githubusercontent.com/60453269/187745147-74848351-d759-4266-83c6-586bf792b1af.png">
-</h1>
+<h1 align="center"> Cats </h1>
+
+<p align="center">
+  <b> Pinterest Cats </b></br>
+  <sub> 
+  Clone do Pinterest com rolagem infinita, usando a API "The Cat API" para exibir imagens adoráveis de gatos.
+  <sub>
+</p>
 
 
-⚙ BETA
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## 📲 User demo ➜ [Link Surge](https://api-gatinhos-scroll-infinito.vercel.app/)
 
-![Sem título](https://user-images.githubusercontent.com/60453269/187748988-1af2cfd7-69cf-43a2-82b1-9fb46fbcaa5c.png)
 
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p align="center">
+  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-- Nest.js
-- sass ou scss
-- HTML
-- CSS
-- Javascript
-- Axios
+<br/>
 
-## ⚙ Api que usei foi ➜ [Link api](https://documenter.getpostman.com/view/5578104/RWgqUxxh#997f5b37-79cc-49a4-8c11-ddf24b72a4d9)
+### 🚧 PROJETO EM ANDAMENTO 🚧
 
-Uma API aberta, gratuita, de leitura e escrita sobre gatos
-A API Cat oferece acesso a 10.000 imagens de gatos
+<br/>
 
-Carregue suas próprias imagens
-Favorito ou Vote nas imagens
-Obtenha estatísticas sobre seus pedidos
-Salve um valor personalizado com cada solicitação para cada um de seus usuários
+<a id="Introdução"></a>
+## 🧩 Introdução 
 
-## 💻 Projeto
- A aplicação consiste em  visualizar um scroll infinito com imagens de gatinhos de uma api.
- 
-## 🖥️ Libs para instalar e visualizar o projeto 
+  ***⠀⠀⠀⠀Desenvolvi um site com design similar ao Pinterest, com recursos de rolagem infinita, utilizando a API "The Cat API". Este site permite aos usuários explorar uma variedade de imagens adoráveis de gatos, organizadas em um layout limpo e fácil de navegar. Experimente agora e deixe-se encantar pela fofura dos gatinhos!***
 
-- Axios ➜ npm i axios
-- sass ➜ npm i sass
+<br/>
 
-## 🧑‍💻 Desenvolvedores  
 
-<div align="center"> 
+<a id="Resultados"></a>
+## 🚀 Resultados 
+  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados. 
 
-| [<img src="https://user-images.githubusercontent.com/60453269/184236315-92017e73-39ae-4e8e-8a4b-3e7033bc4eb4.jpg" width=150><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | 
+<br />   
+
+ Home |
 |---|
+![image](https://user-images.githubusercontent.com/60453269/232114866-9aac5c7d-ae8e-4a6a-9168-5b7b72400a4f.png)
+  
+
+
+<br />   
+
+<a id="Dependências"></a>
+## 🧪 Dependências
+> Requisitos para rotar o codigo...
+
+<br />   
+
+
+## `📖 Scripts` 
+
+```JSON
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+
+```
+  
+
+## `📖 Dependencies` 
+
+```JSON
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.54.6"
+      }
+
+```
+
+<br /> 
+
+## `📖 devDependencies` 
+
+
+```JSON
+      "devDependencies": {
+            "eslint": "8.22.0",
+            "eslint-config-next": "12.2.5"
+      }
+
+```
+
+
+
+<a id="Ideias"></a>
+## 💡 Possíveis Melhoras
+> Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
+
+<br /> 
+
+- [ ] ***- Testa todo o código.*** 
+
+
+
+<br /> 
+
+<a id="Creditos"></a>
+## 🏆 Créditos
+
+<br /> 
+
+<div > 
+
+| [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin 😁*** | 
+|---|---|
+
 
 </div> 

@@ -46,9 +46,7 @@
 
  Home |
 |---|
-![image](https://user-images.githubusercontent.com/60453269/232114866-9aac5c7d-ae8e-4a6a-9168-5b7b72400a4f.png)
-  
-
+![image](https://user-images.githubusercontent.com/60453269/232587512-d768ffd1-02b8-4a31-97b3-b156bf11c7eb.png)
 
 <br />   
 
@@ -106,7 +104,13 @@
 
 <br /> 
 
-- [ ] ***- Testa todo o código.*** 
+- [ ] ***- Colocar um loading nas imagens*** 
+- [ ] ***- Só carregar as imagens quanto tiver todas*** 
+- [ ] ***- Melhorar o sistema de observe para carregar imagens*** 
+- [ ] ***- Converte a função que esta na pagina principal para um hook*** 
+- [ ] ***- Pagina para quando clicar na imagem aparecer imagem maior*** 
+- [ ] ***- Pagina de perfil do usuario*** 
+- [ ] ***- Sistema de login para simular ainda mais um site*** 
 
 
 

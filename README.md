@@ -111,6 +111,7 @@
 - [ ] ***- Pagina para quando clicar na imagem aparecer imagem maior*** 
 - [ ] ***- Pagina de perfil do usuario*** 
 - [ ] ***- Sistema de login para simular ainda mais um site*** 
+- [ ] ***- Criar usuarios faker*** 
 
 
 

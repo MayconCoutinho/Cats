@@ -96,7 +96,27 @@
 
 ```
 
+<br /> 
 
+## `📖 Instalação` 
+   
+<br /> 
+
+> Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
+
+```BASH
+git clone https://github.com/MayconCoutinho/Cats
+```
+
+<br /> 
+
+> Caso já tenha o Node em sua maquina basta instalar o projeto com npm i
+
+```BASH
+npm i 
+```
+
+<br /> 
 
 <a id="Ideias"></a>
 ## 💡 Possíveis Melhoras
@@ -112,8 +132,6 @@
 - [ ] ***- Pagina de perfil do usuario*** 
 - [ ] ***- Sistema de login para simular ainda mais um site*** 
 - [ ] ***- Criar usuarios faker "https://fakerjs.dev/"*** 
-
-
 
 <br /> 
 

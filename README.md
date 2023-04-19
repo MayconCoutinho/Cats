@@ -132,6 +132,9 @@ npm i
 - [ ] ***- Pagina de perfil do usuario*** 
 - [ ] ***- Sistema de login para simular ainda mais um site*** 
 - [ ] ***- Criar usuarios faker "https://fakerjs.dev/"*** 
+- [ ] ***- Esse like é perfeito para esse projeto "https://codepen.io/aaroniker/pen/VwwxopM"***
+- [ ] ***- Deixar o projeto mais gatonizado, mudar o logo e estilo do pinterest para algo mais customizado*** 
+- [ ] ***- Criar uma api em node com base na api de gatinhos*** 
 
 <br /> 
 

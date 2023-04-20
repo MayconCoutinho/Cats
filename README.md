@@ -150,3 +150,13 @@ npm i
 
 
 </div> 
+
+<br/>
+
+
+  ### ⠀⠀⠀⠀[⭐ Linkedin](https://www.linkedin.com/in/maycon-coutinho/)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/MayconCoutinho)
+
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
